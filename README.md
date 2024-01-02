@@ -1,4 +1,3 @@
 - Pursuing my Bachelor's in Data Science & Applications at IIT Madras
 - Currently preparing for GATE DA 2025
-- I’m looking forward to learning TensorFlow and Deep Learning
-- Reach me at 21f3000348@ds.study.iitm.ac.in
+- Reach me at 21f3000348@ds.study.iitm.ac.in if you want to join the preparation
