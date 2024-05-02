@@ -1,3 +1,3 @@
-- Pursuing my Bachelor's in Data Science & Applications at IIT Madras
-- Currently preparing for GATE DA 2025
-- Reach me at 21f3000348@ds.study.iitm.ac.in if you want to join the preparation
+- Pursuing BS Data Science & Applications at IIT Madras.
+- Currently preparing for GATE DA 2025.
+- Reach me at 21f3000348@ds.study.iitm.ac.in if you want to join the preparation.
