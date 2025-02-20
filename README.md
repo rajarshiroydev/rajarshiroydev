@@ -1,2 +1,2 @@
-- Pursuing BS Data Science & Applications at IIT Madras
+- Data Science @IIT Madras
 - Reach me at 21f3000348@ds.study.iitm.ac.in
